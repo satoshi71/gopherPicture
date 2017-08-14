@@ -1,8 +1,10 @@
 # gopherPicture
 PowerPointでgopher君を書いています。
-詳しくはこちら。
-!()[http://pineplanter.moo.jp/non-it-salaryman/2017/03/07/my-gopher/]
-!()[http://pineplanter.moo.jp/non-it-salaryman/2017/07/12/my-gopher2/]
+
+
+詳しくはブログをご覧ください
+[僕はこうしてgopherを描いている](http://pineplanter.moo.jp/non-it-salaryman/2017/03/07/my-gopher/)
+[小２の息子からこんなgopher君を描いてくれと下絵を渡されたのでパワポで描いてみた](http://pineplanter.moo.jp/non-it-salaryman/2017/07/12/my-gopher2/)
 
 |gopher1|gopher2|gopher3|gopher4|gopher5|
 |:--:|:--:|:--:|:--:|:--:|
