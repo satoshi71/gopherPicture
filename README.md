@@ -9,7 +9,7 @@ PowerPointでgopher君を書いています。
  
 <br />
 <br />
-**gopher君一覧**
+**　gopher君一覧　**
 
 |gopher1|gopher2|gopher3|gopher4|gopher5|
 |:--:|:--:|:--:|:--:|:--:|
